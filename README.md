@@ -6,7 +6,7 @@ An interactive customer segmentation project using **RFM analysis** (Recency, Fr
 
 After GitHub Pages is enabled, the dashboard will be available at:
 
-`https://YOUR-USERNAME.github.io/customer-segmentation-rfm-dashboard/`
+`https://delwar-mahmud.github.io/customer-segmentation-rfm-dashboard/`
 
 Replace `YOUR-USERNAME` with your GitHub username.
 
