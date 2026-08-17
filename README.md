@@ -8,7 +8,6 @@ After GitHub Pages is enabled, the dashboard will be available at:
 
 `https://delwar-mahmud.github.io/customer-segmentation-rfm-dashboard/`
 
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ## Project overview
 
